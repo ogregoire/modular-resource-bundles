@@ -1,3 +1,5 @@
+See https://www.morling.dev/blog/resource-bundle-lookups-in-modular-java-applications/
+
 # Resource Bundle Test
 
 Demo for loading `java.util.ResourceBundle` with different Java versions/configurations:
